@@ -156,6 +156,8 @@ comandos Git:
 * git push
 * git pull
 
+---
+
 R:
 * git init: Cria um repositório git.
 * git add: Adiciona arquivos para serem preparados para o próximo commit.
