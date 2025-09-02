@@ -148,6 +148,8 @@ Explique a função de cada um.
 
 R: O git é apenas uma aplicação local na máquina do desenvolvedor e não pode efetuar o compartilhamento de código por si só, já o GitHub é uma plataforma usada para compartilhar e expor projetos do git na nuvem, outra plataformas alternativas como o GitLab e Bitbucket também existem.
 
+--
+
 Pesquise e Descreva: Liste e descreva brevemente o propósito dos seguintes
 comandos Git:
 * git init
@@ -155,8 +157,6 @@ comandos Git:
 * git commit
 * git push
 * git pull
-
----
 
 R:
 * git init: Cria um repositório git.
