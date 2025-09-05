@@ -71,7 +71,7 @@ correspondente você utilizaria em uma API RESTful e por quê?
 R:
 * GET - Método geralmente usado para ler informações, entra no R (read) do CRUD.
 * POST - Método geralmente usado para enviar informação, pode entrar no C (create) do CRUD.
-* PUT - Método usado para atualziar informações, pode entrar no U (update) do CRUD.
+* PUT - Método usado para atualiziar informações, pode entrar no U (update) do CRUD.
 * DELETE - Método usado para deletar informações, entra no D (delete) do CRUD.
 
 
