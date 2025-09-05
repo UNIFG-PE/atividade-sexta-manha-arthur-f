@@ -16,10 +16,10 @@ Pesquise e Explique: O que é o protocolo HTTP e quais são seus métodos mais
 comuns (GET, POST, PUT, DELETE)? Como cada um deles se relaciona com as
 operações de um CRUD?
 
-R: HTTP (Hypertext Transfer Protocol) é um protoco de aplicação, é o protocolo usado pela WEB, seus metodos comuns podem ser usados para criar um CRUD:
+R: HTTP (Hypertext Transfer Protocol) é um protocolo de aplicação, é o protocolo usado pela WEB, seus métodos comuns podem ser usados para criar um CRUD:
 * GET - Método geralmente usado para ler informações, entra no R (read) do CRUD.
 * POST - Método geralmente usado para enviar informação, pode entrar no C (create) do CRUD.
-* PUT - Método usado para atualziar informações, pode entrar no U (update) do CRUD.
+* PUT - Método usado para atualizar informações, pode entrar no U (update) do CRUD.
 * DELETE - Método usado para deletar informações, entra no D (delete) do CRUD.
 
 ---
