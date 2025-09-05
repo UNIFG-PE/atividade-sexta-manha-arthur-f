@@ -7,8 +7,8 @@ R:\
 Pesquise e Defina: O que é uma API RESTful? Quais são as principais diferenças
 entre ela e uma API SOAP?
 
-R: Uma API RESTful é uma API (Application Programming Interfaces) que segue os padrões do REST (Representational State Transfer), um conjunto de padrões para o desenvolvimento de APIs que inclui: Uso do protocolo HTTP, distinção clara ente cliente e servidor e falta de estado.
-Já uma API SOAP (Simple object access protocol) é um protoco mais antigo e complexo mantido pela W3C, não nescessáriamente usa HTTP e usa a formatação XML (APIs RESTful podem usar qualquer formato mas normalmente usan o JSON).
+R: Uma API RESTful é uma API (Application Programming Interfaces) que segue os padrões do REST (Representational State Transfer), um conjunto de padrões para o desenvolvimento de APIs que inclui: Uso do protocolo HTTP, distinção clara entre cliente e servidor e falta de estado.
+Já uma API SOAP (Simple object access protocol) é um protocolo mais antigo e complexo mantido pela W3C, não necessariamente usa HTTP e usa a formatação XML (APIs RESTful podem usar qualquer formato mas normalmente usam o JSON).
 
 ---
 
