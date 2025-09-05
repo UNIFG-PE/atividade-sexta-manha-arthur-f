@@ -92,12 +92,12 @@ Em seguida o código irá se comunicar com API backend da aplicação, isso pode
 ```js
 fetch("/api/comentario", {
     method: "POST",
-    headers: { /* Cabeçalho da requesição */ },
+    headers: { /* Cabeçalho da requisição */ },
     body: { /* Dados do comentário */ },
     // ...
 });
 ```
-Agora a requisição será passada para ser processada pelo backend, um backend rodando em Node.js usando a biblioteca express, poderia processar a requesição da seguinte maneira:
+Agora a requisição será passada para ser processada pelo backend, um backend rodando em Node.js usando a biblioteca express, poderia processar a requisição da seguinte maneira:
 ```js
 import express from "express";
 
@@ -110,7 +110,7 @@ app.post('/api/comentario', async (requesicao, resposta) => {
 
     // Processamento dos dados...
 
-    // Um status de 200 significa que a requesição foi processada com sucesso
+    // Um status de 200 significa que a requisição foi processada com sucesso
     resposta.sendStatus(200);
 });
 ```
