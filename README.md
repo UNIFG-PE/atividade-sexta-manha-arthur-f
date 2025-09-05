@@ -139,7 +139,7 @@ Pesquise e Explique: O que é o Git e por que ele é indispensável no
 desenvolvimento de software, especialmente em equipes? O que é um
 repositório?
 
-R: Git é um programa de versionamento de software, é essensial para garantir que todas as iterações de um software esteja sempre acesível para o desenvolvedor, para equipes é ainda mais importante pois facilita e automatiza o compartilhamento de código e a integração de mudanças feitas por cada desenvolvedor indidualmente.
+R: Git é um programa de versionamento de software, é essencial para garantir que todas as iterações de um software esteja sempre acessível para o desenvolvedor, para equipes é ainda mais importante pois facilita e automatiza o compartilhamento de código e a integração de mudanças feitas por cada desenvolvedor individualmente.
 
 ---
 
